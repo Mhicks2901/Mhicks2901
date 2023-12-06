@@ -4,6 +4,5 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Mhicks2901/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Mhicks2901/osticket-post-install.git)
 - <b>Command Prompt</b>
   - [DiskPart Disk Cleaning](https://github.com/Mhicks2901/diskpart-cmd.git)
