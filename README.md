@@ -6,3 +6,5 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Mhicks2901/osticket-prereqs)
 - <b>Command Prompt</b>
   - [DiskPart Disk Cleaning](https://github.com/Mhicks2901/diskpart-cmd.git)
+- <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
