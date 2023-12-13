@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://www.linkedin.com/in/michael-hicks-2764822a3/">IT Newcomer </a>☺</h1>
+<h1>Hi, I'm Michael, an <a href="https://www.linkedin.com/in/michael-hicks-2764822a3/">IT Professional </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
